@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Data
-slug: data
+title: Spring
+slug: spring
 menu: true
 submenu: true
 order: 1
 description: >
-  Data Study
+  Spring Study
 ---

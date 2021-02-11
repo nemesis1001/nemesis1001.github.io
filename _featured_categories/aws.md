@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Project
-slug: project
+title: AWS
+slug: aws
 menu: true
 submenu: true
-order: 4
+order: 2
 description: >
-  Projects
+  aws 관련
 ---
