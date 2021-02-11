@@ -2,11 +2,11 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               앞으로 점프
+title:
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://twowinsh87.github.io
+url: https://nemesis1001.github.io
 
 # timezon set
 timezone: Asia/Seoul # 지역 시간 설정
@@ -21,16 +21,16 @@ tagline:             Back-end, Data, Solution(Kafka, etc) Engineer, DevOps
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  아직 방향을 못잡은 개발자
+  배움엔 끝이 없다
 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              twowinsh
-  email:             shalee729@gmail.com
+  name:              kyumin moon
+  email:             nemesis1825@gmail.com
 
 # Fallback image and color
-image:               /assets/img/mypic_fuglen.jpeg
+image:               /assets/img/mypic_fuglen.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -48,7 +48,7 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics: UA-122680554-1
+google_analytics: #UA-122680554-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    #disqus app 만들기
