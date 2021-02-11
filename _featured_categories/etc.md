@@ -1,6 +1,6 @@
 ---
 layout: list
-title: etc
+title: ETC
 slug: etc
 menu: true
 submenu: true
