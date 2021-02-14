@@ -2,7 +2,7 @@
 layout: tag-blog
 title: testTag
 slug: testTag
-category: data
+category: etc
 menu: false
 order: 2
 ---
